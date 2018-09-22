@@ -1,4 +1,4 @@
-##A simple react app with state
+## A simple react app with state
 
 - Built with create-react-app. 
 - Comes with a Navbar and 3 Recipe cards
@@ -6,3 +6,5 @@
 - You can add new recipe by clicking "New Recipe" link on navbar, new recipe form is hidden by default
 - You can delete recipe card
 - Praticed with concepts of State, Props and PropTypes. 
+
+- Both RecipeApp and RecipeInput components have state?
