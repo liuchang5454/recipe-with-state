@@ -7,4 +7,5 @@
 - You can delete recipe card
 - Praticed with concepts of State, Props and PropTypes. 
 
-- Both RecipeApp and RecipeInput components have state?
+Pay Attention to:
+- Both RecipeApp and RecipeInput components have state: each component's state is like an additional water source that joins the waterfall that flows down, that only affects components “below” them.
